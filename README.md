@@ -9,6 +9,14 @@
     <img alt="Audio" src="https://img.shields.io/badge/Audio-pydub%20%2B%20SciPy-green">
   </p>
 </p>
+📸 Screenshots
+*Click images to expand*
+
+<p align="left">
+  <a href="ui_screenshot.png" target="_blank">
+    <img src="ui_screenshot.png" width="80%" alt="GUI">
+  </a>
+</p>
 
 ---
 
